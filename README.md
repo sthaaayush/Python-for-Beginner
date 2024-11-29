@@ -3,7 +3,23 @@
 This repository serves as a comprehensive collection of beginner-level Python concepts, exercises, and projects. It is designed to document the journey of learning Python fundamentals and practical implementations. Perfect for those starting with Python or revisiting its core concepts.
 
 ---
+## 📖 Table of Contents
 
+1. [Introduction to Python](#-introduction-to-python)
+2. [Setup and Run](#-setup-and-run)
+3. [Course Structure](#-course-structure)
+    - [ Basics of Python](#1-basics-of-python)
+    - [ Control Flow](#2-control-flow)
+    - [ Data Structures](#3-data-structures)
+    - [ Functions](#4-functions)
+    - [ Object-Oriented Programming (OOP)](#5-object-oriented-programming-oop)
+    - [ File Handling](#6-file-handling)
+    - [ Error and Exception Handling](#7-error-and-exception-handling)
+    - [ Modules and Packages](#8-modules-and-packages)
+    - [ Working with Libraries](#9-working-with-libraries)
+    - [ Projects](#10-projects)
+
+---
 ## 📖 Introduction to Python
 
 Python is a versatile, high-level, and open-source programming language that emphasizes readability and simplicity. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming. Known for its vast standard library and community support, Python is widely used in various fields, including:
