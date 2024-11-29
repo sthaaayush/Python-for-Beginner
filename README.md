@@ -62,3 +62,9 @@ python --version
 - **Loops**: Understanding `while` and `for` loops for repetitive tasks, along with control flow statements like `break`, `continue`, and `pass`.
 
 ---
+### 3. [List Operations](.Data Structure/listOperations.py)
+- **Defining and Iterating through Lists**: Creating a list and iterating through it using a `for` loop to access each element.
+- **Accessing and Modifying Lists**: Accessing values using indexes and modifying specific elements within the list.
+- **List Built-in Functions**: Using list functions like `extend()`, `insert()`, `append()`, `pop()`, and `remove()` to manipulate list elements.
+
+---
