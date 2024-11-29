@@ -56,3 +56,9 @@ python --version
 - **Type Conversion**: Converting data types using functions like `int()`.
 
 ---
+### 2. [Control Flow](./controlFlow.py)
+- **`if` and `else`**: Using `if` to check conditions and `else` to define alternate actions, such as checking if a number is even or odd.
+- **`elif` Ladder**: Using multiple `elif` conditions to handle multiple choices, like checking the day of the week for different actions.
+- **Loops**: Understanding `while` and `for` loops for repetitive tasks, along with control flow statements like `break`, `continue`, and `pass`.
+
+---
