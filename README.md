@@ -47,3 +47,12 @@ cd Python-for-Beginner
 ```bash
 python --version
 ```
+## 📖 Course Structure
+
+### 1. [Basics of Python](./basic.py)
+- **Print Statements**: Introduction to `print()` and displaying output.
+- **Data Types**: Understanding common data types such as `int`, `float`, `str`, and `bool`.
+- **User Input**: Using `input()` to collect user input.
+- **Type Conversion**: Converting data types using functions like `int()`.
+
+---
